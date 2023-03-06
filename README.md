@@ -2,7 +2,7 @@
 
 # [ intro ]
 # 
-# [ reach me @: faridkamizi.dev ]
+# [ reach me @: [here](https//www.faridkamizi.dev) ]
 
 ### ——————————————————————————————————————————————
 
