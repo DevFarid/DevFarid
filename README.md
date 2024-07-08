@@ -1,5 +1,6 @@
 # 💫 About Me:
-I love gaming and programming. You can find me either modifying a video game or <br>working on a project. I love to dwell in different technology areas and always <br>love learning something new.
+I love gaming and programming. You can find me modifying a video game or <br>working on a project. I love to dwell in different technology areas and always <br>love learning something new.
+I am currently enhancing my mathematical skills and learning machine learning algorithms.
 
 
 ## 🌐 Socials:
